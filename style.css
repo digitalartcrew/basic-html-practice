@@ -69,6 +69,10 @@ table {
   border-collapse: collapse;
 }
 
+tr:first-child {
+  background: #333
+}
+
 tr:nth-child(even) {
   background: #CCC
 }
